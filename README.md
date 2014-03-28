@@ -1,4 +1,4 @@
 JAPLP
 =====
 
-Just Another Protein Localisation Procedure
+Just Another Protein Localisation Prediction
